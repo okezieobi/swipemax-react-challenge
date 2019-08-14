@@ -1,0 +1,1 @@
+# swipemax-react-challenge
